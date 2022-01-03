@@ -8,7 +8,7 @@ type = "tlu"
 
 [MIMOSA26_0]
 material_budget = 0.00075
-number_of_pixels = 1042, 512
+number_of_pixels = 1024, 512
 orientation = 0,0,0
 orientation_mode = "xyz"
 pixel_pitch = 29.24um,26.88um
