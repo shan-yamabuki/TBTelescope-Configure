@@ -1,7 +1,7 @@
 #!/bin/bash
 export PATH_TO_TB=/srv01/tau/huang/beamtest/dataset/telescope
 
-if [[ $# == 2]]; then
+if [[ $# == 2 ]]; then
     run=$1
     energy=$2
     trackmodel="straightline"

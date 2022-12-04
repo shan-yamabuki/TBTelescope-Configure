@@ -1,74 +1,74 @@
 [TLU_0]
 orientation = 0,0,0
 orientation_mode = "xyz"
-position = 0,0,0
+position = 0,0,-1220.0mm
 role = "auxiliary"
 time_resolution = 1ns
 type = "tlu"
 
-[MIMOSA26_0]
+[ADENIUM_0]
 material_budget = 0.00075
-number_of_pixels = 1024, 512
+number_of_pixels = 1152, 576
 orientation = 0,0,0
 orientation_mode = "xyz"
 pixel_pitch = 29.24um,26.88um
-position = 0,0,0
-spatial_resolution = 4um,4um
-time_resolution = 230us
-type = "mimosa26"
+position = 0,0,-1217.0mm
+spatial_resolution = 5um,5um
+time_resolution = 10us
+type = "adenium"
 
-[MIMOSA26_1]
+[ADENIUM_1]
 material_budget = 0.00075
-number_of_pixels = 1024, 512
+number_of_pixels = 1152, 576
 orientation = 0,0,0
 orientation_mode = "xyz"
 pixel_pitch = 29.24um,26.88um
-position = 0,0,145mm
-spatial_resolution = 4um,4um
-time_resolution = 230us
-type = "mimosa26"
+position = 0,0,-1060.0mm
+spatial_resolution = 5um,5um
+time_resolution = 10us
+type = "adenium"
 
-[MIMOSA26_2]
+[ADENIUM_2]
 material_budget = 0.00075
-number_of_pixels = 1024, 512
+number_of_pixels = 1152, 576
 orientation = 0,0,0
 orientation_mode = "xyz"
 pixel_pitch = 29.24um,26.88um
-position = 0,0,295mm
-spatial_resolution = 4um,4um
-time_resolution = 230us
-type = "mimosa26"
+position = 0,0,-913.0mm
+spatial_resolution = 5um,5um
+time_resolution = 10us
+type = "adenium"
 
-[MIMOSA26_3]
+[ADENIUM_3]
 material_budget = 0.00075
-number_of_pixels = 1024, 512
+number_of_pixels = 1152, 576
 orientation = 0,0,0
 orientation_mode = "xyz"
 pixel_pitch = 29.24um,26.88um
-position = 0,0,790mm
-spatial_resolution = 4um,4um
-time_resolution = 230us
-type = "mimosa26"
+position = 0,0,-281.0mm
+spatial_resolution = 5um,5um
+time_resolution = 10us
+type = "adenium"
 
-[MIMOSA26_4]
+[ADENIUM_4]
 material_budget = 0.00075
-number_of_pixels = 1024, 512
+number_of_pixels = 1152, 576
 orientation = 0,0,0
 orientation_mode = "xyz"
 pixel_pitch = 29.24um,26.88um
-position = 0,0,940mm
-spatial_resolution = 4um,4um
-time_resolution = 230us
-type = "mimosa26"
+position = 0,0,-26.5mm
+spatial_resolution = 5um,5um
+time_resolution = 10us
+type = "adenium"
 
-[MIMOSA26_5]
+[ADENIUM_5]
 role = "reference"
 material_budget = 0.00075
-number_of_pixels = 1024, 512
+number_of_pixels = 1152, 576
 orientation = 0,0,0
 orientation_mode = "xyz"
 pixel_pitch = 29.24um,26.88um
-position = 0,0,1090mm
-spatial_resolution = 4um,4um
-time_resolution = 230us
-type = "mimosa26"
+position = 0,0,0.0mm
+spatial_resolution = 5um,5um
+time_resolution = 10us
+type = "adenium"
