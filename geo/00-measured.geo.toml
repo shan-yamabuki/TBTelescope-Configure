@@ -1,0 +1,74 @@
+[TLU_0]
+orientation = 0,0,0
+orientation_mode = "xyz"
+position = 0,0,-1220.0mm
+role = "auxiliary"
+time_resolution = 1ns
+type = "tlu"
+
+[ADENIUM_0]
+material_budget = 0.00075
+number_of_pixels = 1152, 576
+orientation = 0,0,0
+orientation_mode = "xyz"
+pixel_pitch = 29.24um,26.88um
+position = 0,0,-1217.0mm
+spatial_resolution = 5um,5um
+time_resolution = 10us
+type = "adenium"
+
+[ADENIUM_1]
+material_budget = 0.00075
+number_of_pixels = 1152, 576
+orientation = 0,0,0
+orientation_mode = "xyz"
+pixel_pitch = 29.24um,26.88um
+position = 0,0,-1060.0mm
+spatial_resolution = 5um,5um
+time_resolution = 10us
+type = "adenium"
+
+[ADENIUM_2]
+material_budget = 0.00075
+number_of_pixels = 1152, 576
+orientation = 0,0,0
+orientation_mode = "xyz"
+pixel_pitch = 29.24um,26.88um
+position = 0,0,-913.0mm
+spatial_resolution = 5um,5um
+time_resolution = 10us
+type = "adenium"
+
+[ADENIUM_3]
+material_budget = 0.00075
+number_of_pixels = 1152, 576
+orientation = 0,0,0
+orientation_mode = "xyz"
+pixel_pitch = 29.24um,26.88um
+position = 0,0,-281.0mm
+spatial_resolution = 5um,5um
+time_resolution = 10us
+type = "adenium"
+
+[ADENIUM_4]
+material_budget = 0.00075
+number_of_pixels = 1152, 576
+orientation = 0,0,0
+orientation_mode = "xyz"
+pixel_pitch = 29.24um,26.88um
+position = 0,0,-26.5mm
+spatial_resolution = 5um,5um
+time_resolution = 10us
+type = "adenium"
+
+[ADENIUM_5]
+role = "reference"
+material_budget = 0.00075
+number_of_pixels = 1152, 576
+orientation = 0,0,0
+orientation_mode = "xyz"
+pixel_pitch = 29.24um,26.88um
+position = 0,0,0.0mm
+spatial_resolution = 5um,5um
+time_resolution = 10us
+type = "adenium"
