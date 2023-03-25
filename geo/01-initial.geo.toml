@@ -1,74 +1,82 @@
 [TLU_0]
-orientation = 0,0,0
+coordinates = "cartesian"
+orientation = 0deg,0deg,0deg
 orientation_mode = "xyz"
-position = 0,0,-1220.0mm
+position = 0um,0um,-1220mm
 role = "auxiliary"
 time_resolution = 1ns
 type = "tlu"
 
 [ADENIUM_0]
+coordinates = "cartesian"
 material_budget = 0.00075
 number_of_pixels = 1024, 512
-orientation = 0,0,0
+orientation = -6.42555deg,-3.25761deg,0.951511deg
 orientation_mode = "xyz"
 pixel_pitch = 29.24um,26.88um
-position = 0,0,-1217.0mm
+position = -3.11442mm,530.377um,-1217mm
 spatial_resolution = 5um,5um
 time_resolution = 10us
 type = "adenium"
 
 [ADENIUM_1]
+coordinates = "cartesian"
 material_budget = 0.00075
 number_of_pixels = 1024, 512
-orientation = 0,0,0
+orientation = 6.01904deg,3.15671deg,0.0622805deg
 orientation_mode = "xyz"
 pixel_pitch = 29.24um,26.88um
-position = 0,0,-1060.0mm
+position = -1.634mm,804.025um,-1060mm
 spatial_resolution = 5um,5um
 time_resolution = 10us
 type = "adenium"
 
 [ADENIUM_2]
+coordinates = "cartesian"
 material_budget = 0.00075
 number_of_pixels = 1024, 512
-orientation = 0,0,0
+orientation = 5.85024deg,2.76349deg,0.239382deg
 orientation_mode = "xyz"
 pixel_pitch = 29.24um,26.88um
-position = 0,0,-913.0mm
+position = -1.60444mm,141.24um,-913mm
 spatial_resolution = 5um,5um
 time_resolution = 10us
 type = "adenium"
 
 [ADENIUM_3]
+coordinates = "cartesian"
 material_budget = 0.00075
 number_of_pixels = 1024, 512
-orientation = 0,0,0
+orientation = -3.2548deg,-1.48746deg,-0.0735105deg
 orientation_mode = "xyz"
 pixel_pitch = 29.24um,26.88um
-position = 0,0,-281.0mm
+position = -961.233um,198.911um,-281mm
 spatial_resolution = 5um,5um
 time_resolution = 10us
 type = "adenium"
 
 [ADENIUM_4]
+coordinates = "cartesian"
 material_budget = 0.00075
 number_of_pixels = 1024, 512
-orientation = 0,0,0
+orientation = -1.01809deg,-0.599887deg,-0.0779796deg
 orientation_mode = "xyz"
 pixel_pitch = 29.24um,26.88um
-position = 0,0,-26.5mm
+position = 58.331um,248.037um,-26.5mm
 spatial_resolution = 5um,5um
 time_resolution = 10us
 type = "adenium"
 
 [ADENIUM_5]
-role = "reference"
+coordinates = "cartesian"
 material_budget = 0.00075
 number_of_pixels = 1024, 512
-orientation = 0,0,0
+orientation = 0deg,0deg,0deg
 orientation_mode = "xyz"
 pixel_pitch = 29.24um,26.88um
-position = 0,0,0.0mm
+position = 0um,0um,0um
+role = "reference"
 spatial_resolution = 5um,5um
 time_resolution = 10us
 type = "adenium"
+
